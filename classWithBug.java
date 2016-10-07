@@ -12,7 +12,7 @@ public class ClassWithBug{
 	
 	public static void main(String [ ] args){
 		ClassWithBug obj = new ClassWithBug("Test");
-		System.out.println("This is the string " + obj.getString1();
+		System.out.println("This is the string " + obj.getString1());
 	}
 
 	
